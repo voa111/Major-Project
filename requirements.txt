@@ -1,0 +1,4 @@
+flask
+python-dotenv
+flask_sqlalchemy==3.0.2
+pandas
